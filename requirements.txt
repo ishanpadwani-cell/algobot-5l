@@ -1,0 +1,7 @@
+yfinance
+lightgbm
+scikit-learn
+pandas
+numpy
+requests
+curl_cffi
