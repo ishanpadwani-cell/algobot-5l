@@ -1,0 +1,3 @@
+Symbol,Catalyst,EntryDate,EntryPrice,Qty,StopLoss,Invested,RealizedPnL,BlueSkyAddOn,BookedHalf,ResultsDate,MandatoryExitDate,DaysHeld,LastUpdatedDate,EntryReason
+XTRANET,Recent-IPO,2026-11-20,262.0,229,248.9,60088.0,0.0,False,False,-,2026-12-01,0,2026-11-20,"Recent-IPO breakout (+2.6%, 1.75x med vol, 4d base 13.4%, Margins: Steady (+0.5%))"
+GERMAN,Recent-IPO,2026-11-20,112.1,535,106.49,60063.46,0.0,False,False,-,2026-12-01,0,2026-11-20,Recent-IPO [NSE-LIVE] | AI 43.7% | +3.9% on 15.0x vol | Margins: Steady (-0.5%)
