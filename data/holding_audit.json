@@ -1,22 +1,22 @@
 {
   "XTRANET": {
     "verdict": "HOLD",
-    "reason": "Thesis intact | P&L -0.2% | Margins: Steady (+0.5%) | AI 41.0%",
+    "reason": "Thesis intact | P&L -0.2% | Margins: Steady (+0.5%) | AI 44.2%",
     "audited_on": "2026-11-24"
   },
   "GERMAN": {
     "verdict": "HOLD",
-    "reason": "Thesis intact | P&L -1.9% | Margins: Steady (-0.5%)",
+    "reason": "Thesis intact | P&L -1.9% | Margins: Steady (-0.5%) | AI 43.3%",
     "audited_on": "2026-11-24"
   },
   "LCL": {
     "verdict": "HOLD",
-    "reason": "Thesis intact | P&L -2.7% | Margins: Expanding (+10.0%) | AI 40.2%",
+    "reason": "Thesis intact | P&L -2.7% | Margins: Expanding (+10.0%) | AI 40.5%",
     "audited_on": "2026-11-24"
   },
   "SHUKRAMED": {
     "verdict": "HOLD",
-    "reason": "Thesis intact | P&L -1.1% | Margins: N/A | AI 40.6%",
+    "reason": "Thesis intact | P&L -1.1% | Margins: N/A | AI 37.4%",
     "audited_on": "2026-11-24"
   },
   "TECHNOCRAF": {
