@@ -2,3 +2,4 @@ Date,Old_AUC,New_AUC,LiveTradesLearned,Threshold,Decision,Version,AI_Active
 2026-11-22,-,0.4207,0,0.43,UPGRADED to Champion Brain v2!,,
 2026-11-22,0.5503,0.5422,0,0.396,KEPT Old Champion v3 (Old AUC 0.5503 vs Challenger 0.5422),3.0,True
 2026-11-24,0.5503,0.5491,0,0.392,KEPT Champion v3 (Old 0.5503 vs New 0.5491),3.0,True
+2026-11-28,0.5503,0.5341,4,0.39,UPGRADED to v4 (AUC 0.5341),4.0,True

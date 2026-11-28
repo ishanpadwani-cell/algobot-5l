@@ -1,27 +1,27 @@
 {
   "XTRANET": {
-    "verdict": "HOLD",
-    "reason": "Thesis intact | P&L -0.2% | Margins: Steady (+0.5%) | AI 44.2%",
-    "audited_on": "2026-11-24"
-  },
-  "GERMAN": {
-    "verdict": "HOLD",
-    "reason": "Thesis intact | P&L -1.9% | Margins: Steady (-0.5%) | AI 43.3%",
-    "audited_on": "2026-11-24"
-  },
-  "LCL": {
-    "verdict": "HOLD",
-    "reason": "Thesis intact | P&L -2.7% | Margins: Expanding (+10.0%) | AI 40.5%",
-    "audited_on": "2026-11-24"
-  },
-  "SHUKRAMED": {
-    "verdict": "HOLD",
-    "reason": "Thesis intact | P&L -1.1% | Margins: N/A | AI 37.4%",
-    "audited_on": "2026-11-24"
+    "verdict": "TIGHTEN SL",
+    "reason": "Momentum/AI soft (AI 28.3% if scored, Nifty OK) \u2014 SL raised \u20b9248.9->\u20b9251.2",
+    "audited_on": "2026-11-28"
   },
   "TECHNOCRAF": {
+    "verdict": "TIGHTEN SL",
+    "reason": "Momentum/AI soft (AI 33.7% if scored, Nifty OK) \u2014 SL raised \u20b9487.7->\u20b9491.4",
+    "audited_on": "2026-11-28"
+  },
+  "SHIPROCKET": {
     "verdict": "HOLD",
-    "reason": "Thesis intact | P&L +1.3% | Margins: Expanding (+2.3%) | AI 44.5%",
-    "audited_on": "2026-11-24"
+    "reason": "Thesis intact | P&L +0.3% | Margins: Expanding (+1.4%) | AI 35.6%",
+    "audited_on": "2026-11-28"
+  },
+  "FREDUN": {
+    "verdict": "TIGHTEN SL",
+    "reason": "Momentum/AI soft (AI 31.7% if scored, Nifty OK) \u2014 SL raised \u20b91650.3->\u20b91653.9",
+    "audited_on": "2026-11-28"
+  },
+  "LASERPOWER": {
+    "verdict": "HOLD",
+    "reason": "Thesis intact | P&L -0.0% | Margins: Steady (-0.3%) | AI 45.6%",
+    "audited_on": "2026-11-28"
   }
 }
