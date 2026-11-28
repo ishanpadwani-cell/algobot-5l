@@ -1,12 +1,12 @@
 {
   "XTRANET": {
-    "verdict": "TIGHTEN SL",
-    "reason": "Momentum/AI soft (AI 28.3% if scored, Nifty OK) \u2014 SL raised \u20b9248.9->\u20b9251.2",
+    "verdict": "WATCH CLOSELY",
+    "reason": "Soft score (28.3% if scored); keeping SL \u20b9251.2",
     "audited_on": "2026-11-28"
   },
   "TECHNOCRAF": {
-    "verdict": "TIGHTEN SL",
-    "reason": "Momentum/AI soft (AI 33.7% if scored, Nifty OK) \u2014 SL raised \u20b9487.7->\u20b9491.4",
+    "verdict": "WATCH CLOSELY",
+    "reason": "Soft score (33.7% if scored); keeping SL \u20b9491.4",
     "audited_on": "2026-11-28"
   },
   "SHIPROCKET": {
@@ -15,13 +15,13 @@
     "audited_on": "2026-11-28"
   },
   "FREDUN": {
-    "verdict": "TIGHTEN SL",
-    "reason": "Momentum/AI soft (AI 31.7% if scored, Nifty OK) \u2014 SL raised \u20b91650.3->\u20b91653.9",
+    "verdict": "WATCH CLOSELY",
+    "reason": "Soft score (31.7% if scored); keeping SL \u20b91653.9",
     "audited_on": "2026-11-28"
   },
   "LASERPOWER": {
     "verdict": "HOLD",
-    "reason": "Thesis intact | P&L -0.0% | Margins: Steady (-0.3%) | AI 45.6%",
+    "reason": "Thesis intact | P&L -0.0% | Margins: Steady (-0.3%) | AI 42.9%",
     "audited_on": "2026-11-28"
   }
 }
